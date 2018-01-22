@@ -1,0 +1,27 @@
+<pre>
+PIP: 0000
+Title: PIP Template
+Author: CryptoGuard <cryptoguard@protonmail.com>
+Status: Active
+Created: 2018-01-21
+</pre>
+
+==Abstract==
+
+Describe the proposal in a short paragraph. Explain what is the objective and what will the end result look like. The proposal should be worded in a concise fashion and constitute a brief overview of the project.
+
+==Scope==
+Describe in great details the entire scope of the proposal. This is the extension of the description section and is where all the information related to the completion of the POP should be.
+
+==Milestones==
+- Objective 1
+- Objective 2
+- Objective 3
+
+==Timeframe==
+Enter the estimated time of POP completion in minutes, hours or days depending on the situation
+
+==POP Completion Reward==
+Base Reward: 50 PARTs (paid per milestone reached)
+
+Contribute to the reward: Pg3Zy33sFRiL92PgLmkGeqa2ufWShWMfvN
