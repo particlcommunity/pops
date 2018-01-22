@@ -15,7 +15,9 @@ Describe in great details the entire scope of the proposal. This is the extensio
 
 ==Milestones==
 - Objective 1
+
 - Objective 2
+
 - Objective 3
 
 ==Timeframe==
