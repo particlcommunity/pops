@@ -1,0 +1,22 @@
+POP-0001
+
+    # POP-0001 - CLI Command List
+    
+    ## Description
+    Create a particl.wiki page listing all CLI commands displayed when entering the "help" command. 
+    
+    ## Tasks
+    - Create an account on particl.wiki
+    - Visit https://www.particl.wiki/cli_commands and edit the page
+    - Create an exhaustive list of all CLI commands each accompanied by a short description.
+    
+    ## POP Details
+    This bounty requires the user to create a particl.wiki page listing all CLI commands displayed when typing the command "help". Each listed command must also include all possible parameters and be accompanied by a short description of what it does.
+    
+    For reference, please visit this page and use a similar formatting: https://en.bitcoin.it/wiki/Original_Bitcoin_client/API_calls_list
+    
+    ## Estimated Time For Completion
+    Less than a day
+    
+    ## POP Completion Reward
+    Base Reward: 5 PARTs
