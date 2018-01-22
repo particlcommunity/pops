@@ -1,1 +1,31 @@
-# pops
+<img src="https://github.com/particl/branding/blob/master/Logos/particl_logo.svg" />
+
+=Particl Opportunity Proposals (PIP)=
+
+==Description==
+A Particl Opportunity Proposal (POP) is a design document providing information to the Particl community, describing bounty opportunities, integration opportunities, or marketing opportunities. Philanthropy, donations, sponsorship's... a broad categorization of opportunities.
+
+==Directory==
+
+{|class="wikitable sortable" style="width: auto; text-align: center;"
+!Number!!Title!!Status
+|-
+|[[./pop-0000/pop-0000.mediawiki|0000]]||POP Template||Active
+|-
+|[[./pop-0001/pop-0001.mediawiki|0001]]||Particl.Wiki - CLI Command List||Active
+|}
+
+==Acknowledgements==
+
+This process was heavily influenced by the Bitcoin Improvement Proposal (BIP)
+process and Decred Change Proposal (DCP) although it has been modified to fit the needs of Particl.  
+
+* The BIP process document from which portions of this document are based is licensed under the BSD-2-Clause license by author "Luke Dashjr &lt;luke+bip@dashjr.org&gt;".
+
+* The DCP process document from which portions of this document are based is licensed under the CC0-1.0 license by author "Jake Yocum-Piatt"
+
+==Copyright==
+
+This document is licensed under the
+[https://creativecommons.org/publicdomain/zero/1.0 CC0-1.0: Creative Commons CC0 1.0 Universal]
+license.
