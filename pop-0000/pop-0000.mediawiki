@@ -1,6 +1,6 @@
 <pre>
-PIP: 0000
-Title: PIP Template
+POP: 0000
+Title: POP Template
 Author: CryptoGuard <cryptoguard@protonmail.com>
 Status: Active
 Created: 2018-01-21
