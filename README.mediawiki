@@ -1,6 +1,6 @@
 <img src="https://github.com/particl/branding/blob/master/Logos/particl_logo.svg" />
 
-=Particl Opportunity Proposals (PIP)=
+=Particl Opportunity Proposals (POP)=
 
 ==Description==
 A Particl Opportunity Proposal (POP) is a design document providing information to the Particl community, describing bounty opportunities, integration opportunities, or marketing opportunities. Philanthropy, donations, sponsorship's... a broad categorization of opportunities.
