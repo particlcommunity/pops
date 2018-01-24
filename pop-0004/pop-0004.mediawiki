@@ -1,6 +1,6 @@
 <pre>
 POP: 0004
-Title: Contest | Atomic Swap Redesign 
+Title: Contest - Atomic Swap Redesign 
 Author: CryptoGuard <cryptoguard@protonmail.com>
 Status: Active
 Created: 2018-01-23
