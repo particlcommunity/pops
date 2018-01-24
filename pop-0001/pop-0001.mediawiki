@@ -1,6 +1,6 @@
 <pre>
 POP: 0001
-Title: Particl.Wiki | CLI Command List
+Title: Particl.Wiki - CLI Command List
 Author: CryptoGuard <cryptoguard@protonmail.com>
 Status: Active
 Created: 2018-01-22
