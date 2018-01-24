@@ -8,7 +8,7 @@ Ends: 2018-02-7
 </pre>
 
 ==Abstract==
-Contest: Redesign the PART/DCR atomic swap infographic or make a new one from scratch. 
+Contest: Redesign the PART/DCR atomic swap infographic or make a new one from scratch.
 
 ==Scope==
 The recently posted PART/DCR atomic swap is good for giving the information about the atomic swap process, but is not very pretty. The goal of this contest is to create a new atomic swap infographic from scratch. It can be inspired by the aformentioned PART/DCR infographic, or can be designed in a totally different fashion.
