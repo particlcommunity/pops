@@ -1,0 +1,35 @@
+<pre>
+POP: 0004
+Title: Contest - Atomic Swap Redesign 
+Author: CryptoGuard <cryptoguard@protonmail.com>
+Status: Active
+Created: 2018-01-23
+Ends: 2018-02-7
+</pre>
+
+==Abstract==
+Contest: Redesign the PART/DCR atomic swap infographic or make a new one from scratch.
+
+==Scope==
+The recently posted PART/DCR atomic swap is good for giving the information about the atomic swap process, but is not very pretty. The goal of this contest is to create a new atomic swap infographic from scratch. It can be inspired by the aformentioned PART/DCR infographic, or can be designed in a totally different fashion.
+
+==Requirements==
+* The infographic must detail all the steps of the atomic swap process, from the moment both participants create their deposit address to the moment they receive their atomically swapped coin. 
+* Must be submitted before the contest deadline
+* Must be properly written in english with no type
+* Must be represented as a timeline or clearly show the evolution of time throughout the atomic swap process between the two participants
+
+==Milestones==
+* Create an account on threadless.com
+* Submit to Cryptoguard before the end of the contest
+
+==Timeframe==
+A day or two
+
+==POP Completion Reward==
+'''Winner: 15 PART'''
+
+==References==
+* [https://github.com/decred/atomicswap Decred's Atomic Swap repo (contains an infographic and detailed explanations)]
+* [https://image.ibb.co/jcomwm/atomic_swap.png PART/DCR Atomic swap infographic]
+* [https://gist.github.com/cryptoguard/5b3dc81f4318eefe247c24b29a7b1209 PART/DCR Atomic swap text text file]
