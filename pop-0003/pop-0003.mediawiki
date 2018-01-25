@@ -1,6 +1,6 @@
 <pre>
 POP: 0003
-Title: Create a Wikipedia.org entry for Particl
+Title: Create a Wikipedia.org entry for Particl 
 Author: CryptoGuard 
 Status: Active
 Created: 2018-01-23
