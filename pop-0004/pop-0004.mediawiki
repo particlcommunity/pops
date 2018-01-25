@@ -20,7 +20,7 @@ The recently posted PART/DCR atomic swap is good for giving the information abou
 * Must be represented as a timeline or clearly show the evolution of time throughout the atomic swap process between the two participants
 
 ==Milestones==
-* Create an account on threadless.com
+* Create an atomic swap infographic
 * Submit to Cryptoguard before the end of the contest
 
 ==Timeframe==
