@@ -1,7 +1,7 @@
 <pre>
 POP: 0000
 Title: POP Template
-Author: CryptoGuard <cryptoguard@protonmail.com>
+Author: CryptoGuard
 Status: Active
 Created: 2018-01-21
 </pre>
