@@ -1,7 +1,7 @@
 <pre>
 POP: 0000
 Title: POP Template
-Author: CryptoGuard <cryptoguard@protonmail.com>
+Author: CryptoGuard
 Status: Active
 Created: 2018-01-21
 </pre>
@@ -25,5 +25,3 @@ Enter the estimated time of POP completion in minutes, hours or days depending o
 
 ==POP Completion Reward==
 Base Reward: 50 PARTs (paid per milestone reached)
-
-Contribute to the reward: Pg3Zy33sFRiL92PgLmkGeqa2ufWShWMfvN

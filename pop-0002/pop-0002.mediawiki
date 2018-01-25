@@ -1,7 +1,7 @@
 <pre>
 POP: 0002
 Title: Contest - T-Shirt Design
-Author: CryptoGuard <cryptoguard@protonmail.com>
+Author: CryptoGuard
 Status: Pending
 Created: 2018-01-24
 Ends: 2018-02-14
