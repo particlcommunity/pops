@@ -30,8 +30,6 @@ process and Decred Change Proposal (DCP) although it has been modified to fit th
 
 * The DCP process document from which portions of this document are based is licensed under the CC0-1.0 license by author "Jake Yocum-Piatt"
 
-==Copyright==
+==License==
 
-This document is licensed under the
-[https://creativecommons.org/publicdomain/zero/1.0 CC0-1.0: Creative Commons CC0 1.0 Universal]
-license.
+The POP process document is released under the terms of the MIT license. For more information see https://opensource.org/licenses/MIT.
