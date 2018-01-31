@@ -1,4 +1,4 @@
-<img src="./particl_logo_2.png" />
+<img src="./particl_logo_2.svg" />
 
 =Particl Opportunity Proposals (POP)=
 
