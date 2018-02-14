@@ -24,4 +24,4 @@ Describe in great details the entire scope of the proposal. This is the extensio
 Enter the estimated time of POP completion in minutes, hours or days depending on the situation
 
 ==POP Completion Reward==
-Base Reward: 50 PARTs (paid per milestone reached)
+Base Reward: X PARTs (paid per milestone reached)
