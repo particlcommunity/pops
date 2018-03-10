@@ -3,24 +3,24 @@ POP: 0002
 Title: Contest - T-Shirt Design 
 Author: CryptoGuard
 Status: Pending
-Created: 2018-01-24
-Ends: 2018-02-14
+Created: 2018-03-12
+Ends: 2018-04-02
 </pre>
 
 ==Abstract==
 Contest: Design a Particl T-Shirt to be included in the official Particl merch collection. 
 
 ==Scope==
-This contest runs for a duration of 3 weeks and requires users to design a Particl T-Shirt on Threadless. The winner is going to see his shirt be included into Particl's official merch collection and be sold on the marketplace.
+This contest runs for a duration of 3 weeks and requires users to design one or more Particl T-Shirts. The designs are going to be put up for vote by the community and the winner is going to see his shirt be included into Particl's official merch collection and be sold on the marketplace.
 
 ==Milestones==
-* Design a Particl branded T-Shirt
-* Submit your design to EMAIL@EMAIL.COM
+* Design a Particl branded T-Shirt using this template: https://www.threadless.com/dogs-2/submission-kit/
+* Submit your design to cryptoguard@particl.io
 
 ==Timeframe==
 Less than a day
 
 ==POP Completion Reward==
-* 1st Place: 10 PARTs (~$250 at the time of writing)
-* 2nd Place: 5 PARTs (~$125 at the time of writing)
-* 3rd Place: 5 PARTs (~$125 at the time of writing)
+* 1st Place: 10 PARTs (~$250 at the time of writing) + winning shirt
+* 2nd Place: 5 PARTs (~$125 at the time of writing) + winning shirt
+* 3rd Place: 5 PARTs (~$125 at the time of writing) + winning shirt
