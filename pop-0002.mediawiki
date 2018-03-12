@@ -5,7 +5,7 @@ Author: CryptoGuard
 Status: Pending
 Created: 2018-01-24
 Ends: 2018-02-14
-</pre>
+</pre> 
 
 ==Abstract==
 Contest: Design a Particl T-Shirt to be included in the official Particl merch collection. 
