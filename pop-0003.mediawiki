@@ -4,7 +4,7 @@ Title: Create a Wikipedia.org entry for Particl
 Author: CryptoGuard 
 Status: Active
 Created: 2018-01-23
-</pre>
+</pre> 
 
 ==Abstract==
 Create a Particl (Cryptocurrency) Wikipedia entry using the particl.wiki/what-is article. Wikipedia page also must contain a description and Particl Desktop box. 
