@@ -14,7 +14,7 @@ A Particl Opportunity Proposal (POP) is a design document providing information 
 |-
 |[[./pop-0001/pop-0001.mediawiki|0001]]||Particl.Wiki - CLI Command List||Active
 |-
-|[[./pop-0002/pop-0002.mediawiki|0002]]||Contest - T-Shirt Design||Pending
+|[[./pop-0002/pop-0002.mediawiki|0002]]||Contest - T-Shirt Design||On Hold
 |-
 |[[./pop-0003/pop-0003.mediawiki|0003]]||Create a Wikipedia.org entry for Particl||Active
 |-
