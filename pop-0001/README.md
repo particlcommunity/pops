@@ -1,6 +1,6 @@
 # Particl Opportunity Proposal (POP)
 ## 0001 - Particl.Wiki - CLI Command List
-**source: https://github.com/particlcommunity/pops/pop-0001.mediawiki*
+**START HERE: https://github.com/particlcommunity/pops/pop-0001.mediawiki*
 ## Folder structure
 Use the folders to collect assets, submittals, any information to support the POP.
 For example:
