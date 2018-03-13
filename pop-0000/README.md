@@ -1,6 +1,6 @@
 # Particl Opportunity Proposal (POP)
 ## 0000 - POP Template
-**source: https://github.com/particlcommunity/pops/pop-0000.mediawiki*
+**START HERE: https://github.com/particlcommunity/pops/pop-0000.mediawiki*
 ## Folder structure
 Use the folders to collect assets, submittals, any information to support the POP.
 For example:
