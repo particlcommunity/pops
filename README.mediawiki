@@ -5,20 +5,20 @@
 ==Description==
 A Particl Opportunity Proposal (POP) is a design document providing information to the Particl community, describing bounty opportunities, integration opportunities, or marketing opportunities. Philanthropy, donations, sponsorship's... a broad categorization of opportunities.
 
-==Directory==
+==Contents==
 
 {|class="wikitable sortable" style="width: auto; text-align: center;"
 !Number!!Title!!Status
 |-
-|[[./pop-0000/pop-0000.mediawiki|0000]]||POP Template||Active
+|[[./pop-0000.mediawiki|0000]]||POP Template||Active
 |-
-|[[./pop-0001/pop-0001.mediawiki|0001]]||Particl.Wiki - CLI Command List||Active
+|[[./pop-0001.mediawiki|0001]]||Particl.Wiki - CLI Command List||Active
 |-
-|[[./pop-0002/pop-0002.mediawiki|0002]]||Contest - T-Shirt Design||Pending
+|[[./pop-0002.mediawiki|0002]]||Contest - T-Shirt Design||Active
 |-
-|[[./pop-0003/pop-0003.mediawiki|0003]]||Create a Wikipedia.org entry for Particl||Active
+|[[./pop-0003.mediawiki|0003]]||Create a Wikipedia.org entry for Particl||Active
 |-
-|[[./pop-0004/pop-0004.mediawiki|0004]]||Contest - Atomic Swap Redesign||Active
+|[[./pop-0004.mediawiki|0004]]||Contest - Atomic Swap Redesign||Active
 |}
 
 ==Acknowledgements==
