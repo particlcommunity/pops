@@ -1,0 +1,70 @@
+<pre>
+POP: 0003
+Title: Create a Wikipedia.org entry for Particl 
+Author: CryptoGuard 
+Status: Active
+Created: 2018-01-23
+</pre> 
+
+==Abstract==
+Create a Particl (Cryptocurrency) Wikipedia entry using the particl.wiki/what-is article. Wikipedia page also must contain a description and Particl Desktop box. 
+
+==Scope==
+The user must create a new Wikipedia.org entry for "Particl (Cryptocurrency)". The new entry must contain the text from the particl.wiki/what-is page and also contain a description and a Particl Desktop box. The article must also be properly referenced so that it is accepted by Wikipedia.
+
+'''Text:'''
+The particl.wiki/what-is article can be ported or used as base to write a better article. For proper formatting, please consult Wikipedia's formatting guide here -> https://en.wikipedia.org/wiki/Wikipedia:Tutorial/Formatting
+
+'''Description Box:'''
+The description box should contain all basic information about the coin. For formatting reference, please consult Bitcoin's Wikipedia entry (https://en.wikipedia.org/wiki/Bitcoin) and look for the description box on the right. The description box should at least include (but more can be added):
+* Particl Logo (https://github.com/particl/branding/tree/master/Logos)
+* Denominations
+** Plural
+** Ticker Symbol
+** Coins
+* Development
+** Developing Team
+** Whitepaper
+** Forked from
+** Core Repository
+** Operating System
+** Source Model
+** License
+** Initial Release
+** Latest Release
+** Website
+* Ledger
+** Ledger Start
+** Consensus Mechanism
+** Issuance
+** Block Reward
+** Block Time
+** Block Explorer
+** Circulating Supply
+
+
+'''Particl Desktop Box:'''
+Particl Desktop is the new name of our Particl GUI wallet. There should be a dedicated box for this wallet next to the "Client Software" section of the particl.wiki/what-is page. For formatting reference, please visit Monero's Wikipedia entry ( https://en.wikipedia.org/wiki/Monero_(cryptocurrency)#Client_software ) and look for the box to the right of the "client software" section. Included items should include (but can add more): 
+* Developed by
+* Initial Release
+* Latest Release
+* Repository
+* Written in
+* Operating System
+* License
+* Download: DOWNLOAD LINK
+
+'''References:''' Wikipedia.org refuses any new article that is not properly referenced. The user wishing to complete this bounty will have to reference the current particl.wiki/what-is article according to Wikipedia's guidelines ( https://en.wikipedia.org/wiki/Help:Introduction_to_referencing_with_VisualEditor/1 )
+
+==Milestones==
+* Create a new Particl wikipedia.org entry -> https://en.wikipedia.org/wiki/Particl_(cryptocurrency)
+* Port particl.wiki/what-is text article to the new wikipedia.org Particl entry
+* Create a description box like in Bitcoin's entry -> https://en.wikipedia.org/wiki/Bitcoin
+* Create a Particl Desktop box like in Monero's entry -> https://en.wikipedia.org/wiki/Monero_(cryptocurrency)#Client_software
+* Properly reference the article
+
+==Timeframe==
+Less than a day
+
+==POP Completion Reward==
+'''10 PARTs'''

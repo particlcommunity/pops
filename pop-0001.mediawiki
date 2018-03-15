@@ -1,0 +1,27 @@
+<pre>
+POP: 0001
+Title: Particl.Wiki - CLI Command List
+Author: CryptoGuard 
+Status: Active
+Created: 2018-01-22
+</pre> 
+
+==Abstract==
+
+Create a particl.wiki page listing all CLI commands displayed when entering the "help" command. 
+
+==Scope==
+This bounty requires the user to create a particl.wiki page listing all CLI commands displayed when typing the command "help". Each listed command must also include all possible parameters and be accompanied by a short description of what it does.
+
+==Milestones==
+- Create an account on particl.wiki
+- Visit https://www.particl.wiki/cli_commands and edit the page
+- Create an exhaustive list of all CLI commands each accompanied by a short description.
+
+==Timeframe==
+Less than a day
+
+==POP Completion Reward==
+Base Reward: 5 PART
+
+For reference, please visit this page and use a similar formatting: https://en.bitcoin.it/wiki/Original_Bitcoin_client/API_calls_list
