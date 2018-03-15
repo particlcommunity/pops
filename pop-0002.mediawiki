@@ -15,13 +15,14 @@ This contest runs for a duration of 3 weeks after which submissions will be clos
 
 * Templates: https://github.com/particlcommunity/pops/tree/master/pop-0002/assets
 * Current submissions: https://github.com/particlcommunity/pops/tree/master/pop-0002/projects
+* Particl Logos: https://github.com/particl/branding/tree/master/Logos
 * Design examples: https://github.com/particlcommunity/pops/tree/master/pop-0002/projects/Official
 
  
 '' '''Note:''' By making any submission, you agree that: (1) your submission and its contents will automatically become the property of the Particl Foundation; and (2) The Particl Foundation may use, copy, modify, publish, or sell any product derived from the submission.''
 
 ==Milestones==
-* Design a Particl branded shirt using any of these [https://github.com/particlcommunity/pops/tree/master/pop-0002/assets templates] 
+* Design a Particl branded shirt using any of these [https://github.com/particlcommunity/pops/tree/master/pop-0002/assets templates]
 * Submit your design to cryptoguard@particl.io
 
 ==POP Completion Reward==
