@@ -6,7 +6,7 @@ Authors: Cryptoguard & Paul Schmitzer
 Status: Active
 Created: 2018-03-15
 Ends: 2018-04-05
-</pre> 
+</pre>
 
 ==Abstract==
 Contest: Design a Particl branded T-shirt. 
